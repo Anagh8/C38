@@ -1,0 +1,59 @@
+Table Of Contents
+
+    Form.js                          
+
+        constructor
+
+            3 - 8
+
+        hide
+        
+            9 - 14
+
+        display
+
+            16 - 33
+
+
+
+    Game.js
+
+        getState
+
+            4 - 8
+
+        update(state)
+
+            12 - 397
+
+        play
+
+            41 - 82
+
+
+
+    Player.js
+
+        constructor
+
+            2 - 6
+
+        getCount
+
+            8 - 13
+
+        updateCount(count)
+            15 - 19
+
+        update
+
+            21 - 27
+
+        getPlayerInfo
+
+            29 - 35
+
+    
+
+        
+        
